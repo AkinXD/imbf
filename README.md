@@ -20,7 +20,7 @@ $ cd imbf
 $ git pull
 
 
-$ python2 run.so
+$ python2 imbff.py
 
 
 
